@@ -47,7 +47,3 @@ _Note: For binary variables: `1` = true and `0` = false._
 | customer_type_Transient                                                                                                                                                                                         | Binary variable indicating whether the booking is not part of a group or contract, and is not associated to other transient booking    |   |   |   |
 | customer_type_Transient-Party                                                                                                                                                                                   | Binary variable indicating whether the booking is transient, but is associated to at least another transient booking                   |   |   |   |
 
-## Analyse
-
-
-## Conclusion 
