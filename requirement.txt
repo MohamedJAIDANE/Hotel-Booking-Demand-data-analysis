@@ -1,4 +1,3 @@
-numpy
-matplotlib
 pandas
-tabulate
+numpy
+matplotlib.pyplot 
