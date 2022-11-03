@@ -1,5 +1,17 @@
 # Projet-data-analysis
+
+
+
+## Présentation
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MohamedJAIDANE/Projet-data-analysis/main)
+
+ceci est un prototype de projet en analyse de donnée
+on a utilisé la bibliothèque pandas
+
+<img src='img/pandas.png' width=80px>
+
+## :file_folder: Dataset 
 ## Data Dictionary
 _Note: For binary variables: `1` = true and `0` = false._
 
@@ -34,3 +46,8 @@ _Note: For binary variables: `1` = true and `0` = false._
 | customer_type_Group                                                                                                                                                                                             | Binary variable indicating whether the booking is associated to a group                                                                |   |   |   |
 | customer_type_Transient                                                                                                                                                                                         | Binary variable indicating whether the booking is not part of a group or contract, and is not associated to other transient booking    |   |   |   |
 | customer_type_Transient-Party                                                                                                                                                                                   | Binary variable indicating whether the booking is transient, but is associated to at least another transient booking                   |   |   |   |
+
+## Analyse
+
+
+## Conclusion 
